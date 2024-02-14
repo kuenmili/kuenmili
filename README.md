@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">I'm from the beautiful Argentina<br><br>- After studying English for many years, about two years ago I decided to start this amazing journey in software development and that's where I'm going to. The time I wrote my first working code, it enlightened myself and I knew I had found that things called vocation! I enjoy very much spending time coding and it motivates me a whole lot to work in a team that feels the same way I do.<br> -🔭 I’m working on one of my projects, Work Away, with my one of a kind team!<br>- 📚 I'm currently learning C# and .NET<br>- ⚡ In my free time I spend time with my family and friends and enjoy going outdoors</p>
+<p align="left">I'm from the beautiful Argentina<br><br>- After studying English for many years, about two years ago I decided to start this amazing journey in software development and that's where I'm going to. The time I wrote my first working code, it enlightened myself and I knew I had found that things called vocation! I enjoy very much spending time coding and it motivates me a whole lot to work in a team that feels the same way I do.<br> -🔭 I’m working on one of my projects, Work Away, with my one of a kind team!<br>- 📚 I'm currently learning OOP with NEST JS and NODE JS<br>- ⚡ In my free time I spend time with my family and friends and enjoy going outdoors</p>
 
 ###
 
